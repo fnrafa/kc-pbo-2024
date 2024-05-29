@@ -26,7 +26,7 @@
     * [Polymorfisme](#polymorfisme)
     * [Compile-time Polymorphism (Method Overloading)](#compile-time-polymorphism-method-overloading)
     * [Runtime Polymorphism (Method Overriding)](#runtime-polymorphism-method-overriding)
-    * [Abstract Class](#abstract-class)
+  * [Bab 8 - Abstract Class](#bab-8---abstract-class)
     * [Contoh Abstract Class](#contoh-abstract-class)
   * [Bab 9: Interface](#bab-9-interface)
     * [Interface](#interface)
@@ -303,7 +303,7 @@ public class Main {
 }
 ```
 
-### Abstract Class
+## Bab 8 - Abstract Class
 
 - Definisi: Class yang tidak dapat diinstansiasi dan dapat memiliki abstract method (tanpa implementasi) dan concrete
   method (dengan implementasi).
